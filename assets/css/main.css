@@ -1581,3 +1581,11 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+	
+	.speaker {
+		width: 100px;
+		height: 100px;
+		border-radius: 100%;
+		float: left;
+		margin-right: 10px;
+	}
